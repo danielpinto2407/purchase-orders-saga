@@ -1,0 +1,4 @@
+com\purchaseorders\saga\service\KafkaProducerService.class
+com\purchaseorders\saga\service\KafkaConsumerService.class
+com\purchaseorders\saga\controller\KafkaController.class
+com\purchaseorders\saga\OrdersApplication.class
