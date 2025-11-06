@@ -1,2 +1,5 @@
+C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\domain\model\Payment.java
 C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\PaymentsApplication.java
-C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\listener\PaymentEventListener.java
+C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\application\usecase\ProcessPaymentService.java
+C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\application\port\in\ProcessPaymentUseCase.java
+C:\Users\PC\Desktop\proyectos-github\purchase-orders-saga\purchase-orders-saga\paymentservice\src\main\java\com\payment\infrastructure\kafka\consumer\PaymentEventListener.java

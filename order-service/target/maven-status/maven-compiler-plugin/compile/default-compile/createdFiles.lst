@@ -1,4 +1,11 @@
-com\purchaseorders\saga\controller\OrderController.class
+com\purchaseorders\saga\domain\event\OrderCreatedEvent$OrderCreatedEventBuilder.class
 com\purchaseorders\saga\infrastructure\config\KafkaTopicConfig.class
-com\purchaseorders\saga\service\OrderEventProducer.class
 com\purchaseorders\saga\OrdersApplication.class
+com\purchaseorders\saga\domain\event\OrderCreatedEvent.class
+com\purchaseorders\saga\infrastructure\controller\OrderController.class
+com\purchaseorders\saga\application\port\out\OrderEventPort.class
+com\purchaseorders\saga\infrastructure\kafka\producer\OrderEventProducer.class
+com\purchaseorders\saga\infrastructure\controller\dto\CreateOrderRequest.class
+com\purchaseorders\saga\application\usecase\CreateOrderUseCase.class
+com\purchaseorders\saga\domain\service\OrderDomainService.class
+com\purchaseorders\saga\domain\event\OrderEvent.class

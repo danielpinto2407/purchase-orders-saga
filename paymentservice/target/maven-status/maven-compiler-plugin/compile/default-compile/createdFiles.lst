@@ -1,2 +1,5 @@
-com\payment\listener\PaymentEventListener.class
 com\payment\PaymentsApplication.class
+com\payment\application\port\in\ProcessPaymentUseCase.class
+com\payment\application\usecase\ProcessPaymentService.class
+com\payment\domain\model\Payment.class
+com\payment\infrastructure\kafka\consumer\PaymentEventListener.class
